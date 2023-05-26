@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "random": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
